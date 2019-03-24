@@ -47,3 +47,18 @@ p {
     font-weight: bold;
     color: white;
 }
+
+.footer {
+    text-align: left;
+    font-family: Helvetica;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+}
+
+.footer p a {
+    font-family: Helvetica;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
